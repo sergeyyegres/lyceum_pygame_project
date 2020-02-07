@@ -1,0 +1,3 @@
+Name: AAAAAA Score:3 Settings:1250,500,2,6,1
+Name: AAAAAA Score:1 Settings:1250,500,2,6,1
+Name: AAAAAA Score:1 Settings:1250,500,2,6,1
